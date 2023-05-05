@@ -1,0 +1,14 @@
+           ATALHOS NO DART
+(Ctrl + Alt + n) rodar o código
+(Ctrl + Alt + m) Para a execução do código
+(Alt + Shift + Seta para baixo) = Duplica a linha
+(Alt + Shift + Seta para para cima) = suplica a linha 
+(Alt + Shift + F) para organizar o código
+( Ctrl + b) ABRINDO E FECHANDO A BARRA LATERAL
+(Ctrl + g) NAVEGAR PARA UMA LINHA ESPECÍFICA
+(Ctrl + Shift + o) IR PARA SÍMBOLO NO ARQUIVO
+(Ctrl + x) EXCLUIR UMA LINHA
+(Ctrl + Alt + Seta para cima / Seta para baixo)ADICIONAR CURSOR ACIMA/ABAIXO
+(F2) RENOMEAR SÍMBOLO/ VARIÁVEL ETC...
+(Ctrl + P + NOME DO ARQUIVO) PARA PROCURAR UM ARQUIVO
+(Alt + seta para cima ou para baixo)Nevegar linhas de códigos para cima e para baixo
